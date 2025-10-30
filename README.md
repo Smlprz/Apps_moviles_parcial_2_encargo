@@ -1,9 +1,9 @@
-#App Ventas y Arriendos Tech
+#### App Ventas y Arriendos Tech
 
 Una aplicación móvil desarrollada en Android Studio con Jetpack Compose.
 
-
-### 📋 Funcionalidades:
+![Logo App](images/tech_logos.png)
+###Funcionalidad de APP:
 
 #### REQUISITOS - COMPLETADOS
 - **Pantalla inicial** con logo corporativo
