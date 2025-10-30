@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="images/tech_logo.png" alt="Tech Logo" width="200"/>
+  <img src="./images/Android_Studio_icon_.svg" alt="Android Studio Logo" width="200"/>
 </p>
 
-<h1 align="center">🛒 App Ventas y Arriendos Tech</h1>
+<h1 align="center">🛠️ App Ventas y Arriendos Tech</h1>
 
 <p align="center">
   Una aplicación móvil desarrollada en <b>Android Studio</b> con <b>Jetpack Compose</b>.
