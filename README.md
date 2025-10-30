@@ -2,7 +2,10 @@
 
 Una aplicación móvil desarrollada en Android Studio con Jetpack Compose.
 
-![Logo App](images/tech_logos.png)
+![Logo App](images/tech_logo.png)
+
+
+
 ###Funcionalidad de APP:
 
 #### REQUISITOS - COMPLETADOS
