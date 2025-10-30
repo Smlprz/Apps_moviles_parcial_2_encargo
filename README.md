@@ -10,7 +10,7 @@
 
 ---
 
-### Funcionalidades de la App
+### 🚀 Funcionalidades de la App
 
 #### ✅ REQUISITOS - COMPLETADOS
 - **Pantalla inicial** con logo corporativo  
