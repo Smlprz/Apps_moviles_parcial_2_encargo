@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./images/Android_Studio_icon_.svg" alt="Android Studio Logo" width="200"/>
-</p>
-
 <h1 align="center">🛠️ App Ventas y Arriendos Tech</h1>
 
 <p align="center">
